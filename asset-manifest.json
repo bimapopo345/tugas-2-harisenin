@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tugas-2-harisenin/static/css/main.e6c13ad2.css",
+    "main.js": "/tugas-2-harisenin/static/js/main.c37b3d34.js",
+    "static/js/592.e8d692c2.chunk.js": "/tugas-2-harisenin/static/js/592.e8d692c2.chunk.js",
+    "index.html": "/tugas-2-harisenin/index.html",
+    "main.e6c13ad2.css.map": "/tugas-2-harisenin/static/css/main.e6c13ad2.css.map",
+    "main.c37b3d34.js.map": "/tugas-2-harisenin/static/js/main.c37b3d34.js.map",
+    "592.e8d692c2.chunk.js.map": "/tugas-2-harisenin/static/js/592.e8d692c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c37b3d34.js"
+  ]
+}
