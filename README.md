@@ -1,70 +1,89 @@
-# Getting Started with Create React App
+# Food Zone Website
+A website for food enthusiasts to explore and order various types of burgers.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About
+This project was bootstrapped with Create React App and utilizes React Router for routing. It features a responsive design with a navigation bar, hero section, filter form, packages section, pricing section, review section, contact section, blog section, and a footer.
 
-## Available Scripts
+## Features
+* **Navigation Bar**: A responsive navigation bar with a logo, search form, and navigation links.
+* **Hero Section**: A hero section with a background image, heading, and call-to-action button.
+* **Filter Form**: A filter form to search for provinces and select dates and times.
+* **Packages Section**: A section showcasing various burger packages with images, prices, and descriptions.
+* **Pricing Section**: A section displaying pricing plans with features and call-to-action buttons.
+* **Review Section**: A section featuring customer reviews with images, ratings, and testimonials.
+* **Contact Section**: A section with a contact form and address information.
+* **Blog Section**: A section showcasing blog posts with images, headings, and call-to-action buttons.
+* **Footer**: A footer with copyright information, social media links, and quick links.
 
-In the project directory, you can run:
+## Technology Stack
+### Backend
+* None (static website)
 
-### `npm start`
+### Frontend
+* React
+* React Router
+* Create React App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Other Tools
+* Swiper (for review slider)
+* AOS (for animations)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Prerequisites
+* Node.js (version 14 or higher)
+* npm (version 6 or higher)
+* Create React App (version 5 or higher)
 
-### `npm test`
+## Installation
+```bash
+# Clone the repository
+git clone https://github.com/bimapopo345/tugas-2-harisenin.git
+cd tugas-2-harisenin
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Install dependencies
+npm install
+# or using pnpm
+pnpm install
 
-### `npm run build`
+# Start development server
+npm start
+# or using pnpm
+pnpm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
+1. Open `http://localhost:3000` in your web browser to view the website.
+2. Navigate through the website using the navigation bar or links.
+3. Fill out the contact form to send a message.
+4. Explore the blog posts and packages.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## API Documentation
+None (static website)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployment
+To deploy the website, run the following command:
+```bash
+npm run build
+```
+This will create a production-ready build of the website in the `build` folder.
 
-### `npm run eject`
+## Contributing
+To contribute to this project, please fork the repository and submit a pull request with your changes.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
+This project is licensed under the MIT License.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contact/Support
+For questions or support, please email [bimapopo345@gmail.com](mailto:bimapopo345@gmail.com).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Documentation](#api-documentation)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact-support)
